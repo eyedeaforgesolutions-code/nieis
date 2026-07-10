@@ -1,0 +1,26 @@
+{
+  "name": "NIEIS — PNG Electoral Intelligence",
+  "short_name": "NIEIS",
+  "description": "Papua New Guinea National Identity and Electoral Intelligence System",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0C0E12",
+  "theme_color": "#D4A843",
+  "orientation": "portrait-primary",
+  "categories": ["government", "politics", "news"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
